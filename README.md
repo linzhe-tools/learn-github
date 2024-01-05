@@ -20,3 +20,7 @@ function App() {
   return <Home />;
 }
 ```
+```ts
+import {bar} from './bar'
+bar()
+```
