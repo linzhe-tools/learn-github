@@ -4,7 +4,10 @@ learn-github
 
 linzhe-tools
 
-```js
+```ts
+import {foo} './foo';
+import {add} './feat-add-fn';
+
 foo(); // foo
 add(1, 3); //4
 ```
